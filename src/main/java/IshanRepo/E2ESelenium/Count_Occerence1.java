@@ -6,7 +6,7 @@ public class Count_Occerence1 {
 		// TODO Auto-generated method stub
       String s = "aaaaab";
       char a[] = s.toCharArray();
-      char occ = 'a';
+      
       int k = 0;
       for(int i=0;i<a.length;i++)
       {
