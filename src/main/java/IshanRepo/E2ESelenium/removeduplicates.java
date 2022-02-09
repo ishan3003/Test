@@ -19,7 +19,7 @@ public class removeduplicates {
     {
     	if(c[i]==c[j])
     	{
-    	  	break;
+    	  	continue;
     	}
     		
     }

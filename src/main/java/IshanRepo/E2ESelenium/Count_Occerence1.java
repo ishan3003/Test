@@ -4,7 +4,7 @@ public class Count_Occerence1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      String s = "aaaaab";
+      String s = "aaaaaab";
       char a[] = s.toCharArray();
       
       int k = 0;
